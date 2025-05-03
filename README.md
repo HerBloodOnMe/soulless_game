@@ -21,7 +21,7 @@ Steam Library Checker helps you decide what to play by randomly selecting a game
 2. Extract the contents to a folder of your choice.
 
 ### Step 2: Run the Application
-1. Double-click the `steam-library-checker.exe` file to start the application.
+1. Double-click the `game_finder.exe` file to start the application.
 
 ### Step 3: Enter Your Steam API Key and User ID
 1. On the first run, you will be prompted to enter your Steam API Key and Steam User ID.
